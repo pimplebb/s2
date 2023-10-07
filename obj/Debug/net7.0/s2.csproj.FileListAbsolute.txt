@@ -1,0 +1,14 @@
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.AssemblyInfoInputs.cache
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.AssemblyInfo.cs
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.csproj.CoreCompileInputs.cache
+C:\Users\lalkiti\Desktop\sp\s2\bin\Debug\net7.0\s2.exe
+C:\Users\lalkiti\Desktop\sp\s2\bin\Debug\net7.0\s2.deps.json
+C:\Users\lalkiti\Desktop\sp\s2\bin\Debug\net7.0\s2.runtimeconfig.json
+C:\Users\lalkiti\Desktop\sp\s2\bin\Debug\net7.0\s2.dll
+C:\Users\lalkiti\Desktop\sp\s2\bin\Debug\net7.0\s2.pdb
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.dll
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\refint\s2.dll
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.pdb
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\s2.genruntimeconfig.cache
+C:\Users\lalkiti\Desktop\sp\s2\obj\Debug\net7.0\ref\s2.dll
